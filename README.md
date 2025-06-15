@@ -52,6 +52,3 @@
 - **Otto Games** – Game Technology & Web Systems
 - **Atlaspad** – Frontend Development & Testing
 
----
-
-> 🧭 “Write code with purpose. Build projects with impact.”
