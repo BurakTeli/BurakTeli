@@ -34,7 +34,7 @@
 - 👨‍💻 I develop real-world web projects
 - 🎯 My goal: become a strong Full Stack Developer and startup founder
 - 📚 I enjoy learning about software, finance, and entrepreneurship
-- 📬 Contact me: [LinkedIn](https://www.linkedin.com/in/buraktelli/)
+- 📬 Contact me: [LinkedIn]([https://www.linkedin.com/in/buraktelli/](https://www.linkedin.com/in/burak-telli-840468280/))
 
 ---
 
