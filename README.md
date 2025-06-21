@@ -117,10 +117,27 @@ Gained experience in frontend testing and improved English communication through
 - Role-based authorization and global error handling
 
 ---
-📈 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BurakTeli&show_icons=true&theme=github_dark" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=BurakTeli&theme=github-dark&hide_border=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTeli&layout=compact&theme=github_dark" height="150"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakTeli&theme=react-dark&custom_title=Burak%20Telli's%20Contribution%20Graph" height="220"/> </p>
 
+### 📈 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BurakTeli&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BurakTeli&theme=github-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTeli&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakTeli&theme=react-dark&custom_title=Burak%20Telli's%20Contribution%20Graph" height="220"/>
+</p>
+
+---
+
+### 🗣️ References
+
+View professional recommendations on my LinkedIn profile:  
+🔗 [LinkedIn Recommendations →](https://www.linkedin.com/in/burak-telli-840468280/details/recommendations/?detailScreenTabIndex=0)
+
+> ✅ Written by colleagues, mentors, and teammates I've worked with across projects, bootcamps, and internships.
 
 ---
 
