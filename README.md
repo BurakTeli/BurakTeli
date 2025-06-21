@@ -135,18 +135,7 @@ Gained experience in frontend testing and improved English communication through
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakTeli&theme=react-dark&custom_title=Burak%20Telli's%20Contribution%20Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakTeli&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurakTeli&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurakTeli&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BurakTeli&theme=github_dark&utcOffset=+3" />
-</p>
 
 ---
 
