@@ -127,5 +127,5 @@ Gained experience in frontend testing and improved English communication through
 ### 📬 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/burak-telli-840468280/)
-- 📧 buraktelli.dev@gmail.com
+- 📧 tellibrk216@gmail.com
 - 🌐 Portfolio: Coming Soon
