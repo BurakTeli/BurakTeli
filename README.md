@@ -19,7 +19,7 @@
 </p>
 ---
 <h2 align="center">💼 Internships & Achievements</h2>
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:900px; margin:auto; width:100%;">
+<div align="center" style="display:flex; justify-content:center; gap:20px; width:100%; margin:auto;">
   <div>
     <img src="./assets/ventura.png" alt="Ventura Yazılım" style="width:160px; height:160px; object-fit:cover; border-radius:10px;"/>
     <p style="text-align:center;font-size:12px;"><b>Ventura Yazılım</b><br/>Full Stack Developer Intern</p>
@@ -33,7 +33,7 @@
     <p style="text-align:center;font-size:12px;"><b>OTTO Games</b><br/>Game Developer Intern</p>
   </div>
 </div>
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:900px; margin:auto; width:100%; margin-top:20px;">
+<div align="center" style="display:flex; justify-content:center; gap:20px; width:100%; margin:auto; margin-top:20px;">
   <div>
     <img src="./assets/on7.jpeg" alt="ON7 Software" style="width:160px; height:160px; object-fit:cover; border-radius:10px;"/>
     <p style="text-align:center;font-size:12px;"><b>ON7 Software</b><br/>Front-End Developer Intern</p>
@@ -60,7 +60,7 @@
 </p>
 ---
 <h2 align="center">🧠 Bootcamps & Trainings</h2>
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:900px; margin:auto; width:100%;">
+<div align="center" style="display:flex; justify-content:center; gap:20px; width:100%; margin:auto;">
   <div>
     <img src="./assets/bootcamp/akbank.jpg" alt="Akbank ML Bootcamp" style="width:160px; height:160px; object-fit:cover; border-radius:10px;"/>
     <p style="text-align:center;font-size:12px;"><b>Akbank Machine Learning Bootcamp</b><br/>AI Bootcamp Student – 1 Month</p>
