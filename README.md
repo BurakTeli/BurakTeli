@@ -1,148 +1,115 @@
 <h1 align="center">Hi, I'm Burak 👋</h1>
 
 <p align="center">
-  A passionate Full Stack Developer from Türkiye <br/>
-  🚀 Currently focused on React, C#, .NET, and JavaScript <br/>
-  💼 I actively build real-world projects and improve every day <br/>
-  🧠 Enthusiastic about artificial intelligence technologies
+  A passionate <b>AI & Full Stack Developer</b> from Türkiye 🇹🇷 <br/>
+  🚀 Founder of <b>NuggetLabs</b> — building automation & smart software systems <br/>
+  💡 Project-Based Developer @ <b>Karanix</b> (Antalya) <br/>
+  🎓 OSTİM Technical University graduate, focused on hands-on learning and real-world projects <br/>
+  🧠 Passionate about Artificial Intelligence, Automation, and Entrepreneurship
 </p>
 
 ---
 
-### 💡 About Me
+<h2 align="center">💡 About Me</h2>
 
-- 👨‍💻 I build real-world fullstack web applications  
-- 🎯 Future goal: Become a strong Full Stack Developer & tech founder  
-- 📚 Passionate about software, finance, and entrepreneurship  
-- 📬 Let's connect → [LinkedIn](https://www.linkedin.com/in/burak-telli-840468280/)
-
----
-
-### 🛠️ Tech Stack
-
-- 💻 Languages: `JavaScript`, `TypeScript`, `C#`, `Python`  
-- 🌐 Frontend: `React`, `Redux`, `HTML`, `CSS`, `Bootstrap`, `TailwindCSS`  
-- 🔧 Backend: `.NET Core (C#)`  
-- 🧠 AI/ML: `PyTorch`, `OpenCV`, `TensorFlow`  
-- 🗃️ Databases: `SQL Server`, `PostgreSQL`, `MongoDB`  
-- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`
-
----
-
-### 👨‍💻 Internships
-
-#### 🏥 Ventura Yazılım *(Dec 2024 – May 2025)*  
-**Full Stack Developer Intern – Healthcare Projects**  
-Worked on hospital systems using React for frontend and .NET Core + C# for backend, focusing on real-time data flow and secure API design.
-
-**💻 Responsibilities:**
-- Created clinical interfaces and forms  
-- Built secure APIs, managed databases, implemented patient workflows  
-- Delivered end-to-end healthcare solutions with clean architecture
-
----
-
-#### 🧠 Ordulu Teknoloji *(Sep 2024 – Dec 2024)*  
-**Computer Vision & AI Intern – Baykar & Turkish Airlines Projects**  
-Participated in AI projects focused on defense and healthcare, working with real-world datasets and cutting-edge vision systems.
-
-**🚀 Highlight Projects:**
-- **Lane Tracking & Parking Detection** using YOLOv8 & OpenCV  
-- **Diabetes Risk Prediction** with real patient data  
-- **Face Mesh & Motion Detection** for education & security use
-
----
-
-#### 🎮 OTTO Games *(Jul 2024 – Oct 2024)*  
-**Game Dev Intern – Unity & C#**  
-Contributed to best-selling Steam/PlayStation Store game. Strengthened C# skills and collaborated on full 2D game builds.
-
-**🕹️ Key Contributions:**
-- Debugged and tested **City Bus Simulator**  
-- Designed 2D games, UI, and basic mechanics  
-- Improved Unity scripting and performance
-
----
-
-#### 💻 ON7 Software *(Jun 2024 – Oct 2024)*  
-**Frontend Developer Intern – React & UI**  
-Contributed to freelance projects, building UI components and reusable frontend architecture with React + Redux.
-
-**🔧 What I Worked On:**
-- Built responsive UI with `React.js`, `TypeScript`, `Redux`  
-- Reviewed and optimized real freelance UIs  
-- Applied design systems, accessibility, and reusable component logic
-
----
-
-#### 📊 Atlaspad *(Mar 2024 – Jun 2024)*  
-**Frontend & Marketing Intern**  
-Gained experience in frontend testing and improved English communication through international project exposure.
-
----
-
-### 🎓 Bootcamps & Advanced Training
-
-- **Patika+ Fullstack Bootcamp** *(Ongoing – 2025)*  
-  ➤ 240+ projects, real-world backend/frontend applications
-
-- **Global AI Hub – ML Bootcamp (Aygaz)** *(Nov 2024 – Jan 2025)*  
-  ➤ Supervised learning, evaluation metrics, Python frameworks
-
-- **Pupilica AI Bootcamp** *(Dec 2024 – Jan 2025)*  
-  ➤ Built CNN/RNN models on real datasets with deployment in mind
-
-- **Akbank ML Bootcamp** *(Apr 2025 – Jul 2025)*  
-  ➤ Data cleaning, training pipelines, model optimization
-
----
-
-### 🚀 Projects
-
-#### 🧬 Stem Cell Neuron Detection *(Mar 2019 – Jun 2019)*  
-- 🥇 1st Place in TÜBİTAK AI competition  
-- 100% accuracy on 68 neuron-differentiation stem cell images  
-- Used growth hormone & graphene data with image AI
-
-#### 🧪 Rapid Wound Healing *(Nov 2017)*  
-- 68% healing improvement with eggshell-enriched stem cells  
-- Won 1st place in national competition  
-
-#### 💡 Startup Finalist – Pitching Day *(May 2024)*  
-- 🏆 3rd place out of 117 teams  
-- Scalable startup idea presented to Fonbulucu, Kolektif House, OSTİMTECH, Ostim Technopark  
-
-#### 🔐 Secure API with ASP.NET Core *(2025)*  
-- JWT authentication, CRUD, Clean Architecture  
-- Role-based authorization and global error handling
-
----
-
-### 📈 GitHub Stats & Activity
+- 💻 Developing end-to-end full stack and AI-powered web applications  
+- 🎯 Completed internships across 6 tech companies — gained experience in healthcare, AI, and SaaS projects  
+- 🧬 Winner of TÜBİTAK National Research Competition (AI & Biotechnology)  
+- 🚀 Founded my second startup during my job search process to build automation-based software systems  
+- 📚 Continuously learning new technologies and improving English (currently B1 level)  
+- 🤝 Open to collaborations in AI, automation, and full-stack development  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurakTeli&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BurakTeli&theme=github-dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTeli&layout=compact&theme=github_dark" height="150"/>
+  <b>“I believe taking big risks at a young age leads to extraordinary growth.”</b>
+</p>
+
+---
+
+<h2 align="center">💼 Internships & Achievements</h2>
+
+<p align="center">
+  <figure>
+    <img src="./assets/ventura.png" width="160" height="160" alt="Ventura Yazılım"/>
+    <figcaption><b>Ventura Yazılım</b><br/>Full Stack Developer Intern</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/ordulu.jpg.webp" width="160" height="160" alt="Ordulu Teknoloji"/>
+    <figcaption><b>Ordulu Teknoloji</b><br/>AI & Deep Learning Intern</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/otto.jpg" width="160" height="160" alt="OTTO Games"/>
+    <figcaption><b>OTTO Games</b><br/>Game Developer Intern</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/on7.jpeg" width="160" height="160" alt="ON7 Software"/>
+    <figcaption><b>ON7 Software</b><br/>Front-End Developer Intern</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/atlaspad.jpg" width="160" height="160" alt="Atlaspad"/>
+    <figcaption><b>Atlaspad</b><br/>Marketing Intern – Florida</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/badi.jpg" width="160" height="160" alt="Badi Etkinlik"/>
+    <figcaption><b>Badi Etkinlik</b><br/>Marketing Intern</figcaption>
+  </figure>
+</p>
+
+---
+
+<h2 align="center">🥇 TÜBİTAK Achievement</h2>
+
+<p align="center">
+  <img src="./assets/tubitak.png" width="500" alt="TÜBİTAK Achievement"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakTeli&theme=react-dark&custom_title=Burak%20Telli's%20Contribution%20Graph" height="220"/>
+  <i>
+  Developed a deep learning model that classified stem cell differentiation with 100% accuracy across 68 images.  
+  Combined artificial intelligence and biotechnology to explore neuron formation — awarded 1st place at the TÜBİTAK National Research Competition.
+  </i>
 </p>
 
 ---
 
-### 🗣️ References
+<h2 align="center">🧠 Bootcamps & Trainings</h2>
 
-View professional recommendations on my LinkedIn profile:  
-🔗 [LinkedIn Recommendations →](https://www.linkedin.com/in/burak-telli-840468280/details/recommendations/?detailScreenTabIndex=0)
+<p align="center">
+  <figure>
+    <img src="./assets/bootcamp/akbank.jpg" width="160" height="160" alt="Akbank ML Bootcamp"/>
+    <figcaption><b>Akbank Machine Learning Bootcamp</b><br/>AI Bootcamp Student – 1 Month</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/bootcamp/Global.jpeg" width="160" height="160" alt="Global AI Hub Bootcamp"/>
+    <figcaption><b>Global AI Hub Bootcamp</b><br/>AI Bootcamp Student – 1 Month</figcaption>
+  </figure>
+  <figure>
+    <img src="./assets/bootcamp/PUPİLICA.png" width="160" height="160" alt="Pupilica AI Bootcamp"/>
+    <figcaption><b>Pupilica AI Bootcamp</b><br/>AI Bootcamp Student – 1 Month</figcaption>
+  </figure>
+</p>
 
-> ✅ Written by colleagues, mentors, and teammates I've worked with across projects, bootcamps, and internships.
+<p align="center">
+  <img src="./assets/bootcamp/patika.png" width="420" alt="Patika+ Full Stack Bootcamp"/>
+</p>
+
+<p align="center">
+  <i>
+  This intensive 8-month program provided comprehensive, hands-on training in full-stack web development.  
+  I gained in-depth knowledge of modern frontend and backend technologies — focusing on React, C#, and .NET.  
+  Through real-world projects, I developed the ability to build scalable and high-performance applications.
+  </i>
+</p>
 
 ---
 
-### 📬 Contact
+<h2 align="center">📈 GitHub Stats & Activity</h2>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/burak-telli-840468280/)
-- 📧 tellibrk216@gmail.com
-- 🌐 Portfolio: Coming Soon
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BurakTeli&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BurakTeli&theme=github-dark&hide_border=true" height="150" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTeli&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakTeli&theme=react-dark&custom_title=Burak%20Telli's%20Contribution%20Graph&hide_border=true" height="230" alt="GitHub Activity Graph"/>
+</p>
