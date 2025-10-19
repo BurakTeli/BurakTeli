@@ -27,32 +27,32 @@
 
 <h2 align="center">💼 Internships & Achievements</h2>
 
-<p align="center">
-  <figure>
-    <img src="./assets/ventura.png" width="160" height="160" alt="Ventura Yazılım"/>
-    <figcaption><b>Ventura Yazılım</b><br/>Full Stack Developer Intern</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/ordulu.jpg.webp" width="160" height="160" alt="Ordulu Teknoloji"/>
-    <figcaption><b>Ordulu Teknoloji</b><br/>AI & Deep Learning Intern</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/otto.jpg" width="160" height="160" alt="OTTO Games"/>
-    <figcaption><b>OTTO Games</b><br/>Game Developer Intern</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/on7.jpeg" width="160" height="160" alt="ON7 Software"/>
-    <figcaption><b>ON7 Software</b><br/>Front-End Developer Intern</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/atlaspad.jpg" width="160" height="160" alt="Atlaspad"/>
-    <figcaption><b>Atlaspad</b><br/>Marketing Intern – Florida</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/badi.jpg" width="160" height="160" alt="Badi Etkinlik"/>
-    <figcaption><b>Badi Etkinlik</b><br/>Marketing Intern</figcaption>
-  </figure>
-</p>
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%; max-width: 900px;">
+  <div style="max-width: 160px;">
+    <img src="./assets/ventura.png" alt="Ventura Yazılım" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Ventura Yazılım</b><br/>Full Stack Developer Intern</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/ordulu.jpg.webp" alt="Ordulu Teknoloji" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Ordulu Teknoloji</b><br/>AI & Deep Learning Intern</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/otto.jpg" alt="OTTO Games" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>OTTO Games</b><br/>Game Developer Intern</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/on7.jpeg" alt="ON7 Software" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>ON7 Software</b><br/>Front-End Developer Intern</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/atlaspad.jpg" alt="Atlaspad" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Atlaspad</b><br/>Marketing Intern – Florida</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/badi.jpg" alt="Badi Etkinlik" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Badi Etkinlik</b><br/>Marketing Intern</p>
+  </div>
+</div>
 
 ---
 
@@ -73,20 +73,20 @@
 
 <h2 align="center">🧠 Bootcamps & Trainings</h2>
 
-<p align="center">
-  <figure>
-    <img src="./assets/bootcamp/akbank.jpg" width="160" height="160" alt="Akbank ML Bootcamp"/>
-    <figcaption><b>Akbank Machine Learning Bootcamp</b><br/>AI Bootcamp Student – 1 Month</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/bootcamp/Global.jpeg" width="160" height="160" alt="Global AI Hub Bootcamp"/>
-    <figcaption><b>Global AI Hub Bootcamp</b><br/>AI Bootcamp Student – 1 Month</figcaption>
-  </figure>
-  <figure>
-    <img src="./assets/bootcamp/PUPİLICA.png" width="160" height="160" alt="Pupilica AI Bootcamp"/>
-    <figcaption><b>Pupilica AI Bootcamp</b><br/>AI Bootcamp Student – 1 Month</figcaption>
-  </figure>
-</p>
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%; max-width: 900px;">
+  <div style="max-width: 160px;">
+    <img src="./assets/bootcamp/akbank.jpg" alt="Akbank ML Bootcamp" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Akbank Machine Learning Bootcamp</b><br/>AI Bootcamp Student – 1 Month</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/bootcamp/Global.jpeg" alt="Global AI Hub Bootcamp" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Global AI Hub Bootcamp</b><br/>AI Bootcamp Student – 1 Month</p>
+  </div>
+  <div style="max-width: 160px;">
+    <img src="./assets/bootcamp/PUPİLICA.png" alt="Pupilica AI Bootcamp" style="max-width: 100%; height: auto; border-radius: 10px;"/>
+    <p style="text-align:center;font-size:12px;"><b>Pupilica AI Bootcamp</b><br/>AI Bootcamp Student – 1 Month</p>
+  </div>
+</div>
 
 <p align="center">
   <img src="./assets/bootcamp/patika.png" width="420" alt="Patika+ Full Stack Bootcamp"/>
